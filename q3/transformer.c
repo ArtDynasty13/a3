@@ -16,11 +16,30 @@ struct image {
 struct image *create_image() { //check amount of whitespace
     struct image *new_image = malloc(sizeof(struct image));
 
-    char c = getchar();
-    for(; c != '\n' && c != ' ' && c != '\t'; c = getchar());
+    char c;
+    // Consume characters until "P3" is found
+    while ((c = getchar()) != EOF) {
+        if (c == 'P') {
+            if ((c = getchar()) == '3') {
+                break; // Found "P3"
+            }
+        }
+    }
 
-    //char format[3];
-    //scanf("%2s", format);
+    // Consume all digits after "P3" (e.g., "4444")
+    while ((c = getchar()) != EOF) {
+        if (c < '0' || c > '9') {
+            break; // Stop when a non-digit is encountered
+        }
+    }
+
+    // Consume all non-digit characters until the first number
+    while ((c = getchar()) != EOF) {
+        if (c >= '0' && c <= '9') {
+            ungetc(c, stdin); // Put the first digit back into the input stream
+            break;
+        }
+    }
 
     scanf("%d %d", &new_image->width, &new_image->height);
     new_image->arr = malloc(sizeof(struct pixel *) * new_image->height); //dynamically allocate some row pointers
