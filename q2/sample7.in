@@ -1,0 +1,801 @@
+   p   x
+  p   y
+   u
+   i
+   a    x   50
+   a    y   -10
+   p   x
+   p   y
+  a   x   20
+   a   y   70
+a   x   300
+   a   x   299
+a   x   298
+   a   x   297
+a   x   296
+   a   x   295
+a   x   294
+   a   x   293
+a   x   292
+   a   x   291
+a   x   290
+   a   x   289
+a   x   288
+   a   x   287
+a   x   286
+   a   x   285
+a   x   284
+   a   x   283
+a   x   282
+   a   x   281
+a   x   280
+   a   x   279
+a   x   278
+   a   x   277
+a   x   276
+   a   x   275
+a   x   274
+   a   x   273
+a   x   272
+   a   x   271
+a   x   270
+   a   x   269
+a   x   268
+   a   x   267
+a   x   266
+   a   x   265
+a   x   264
+   a   x   263
+a   x   262
+   a   x   261
+a   x   260
+   a   x   259
+a   x   258
+   a   x   257
+a   x   256
+   a   x   255
+a   x   254
+   a   x   253
+a   x   252
+   a   x   251
+a   x   250
+   a   x   249
+a   x   248
+   a   x   247
+a   x   246
+   a   x   245
+a   x   244
+   a   x   243
+a   x   242
+   a   x   241
+a   x   240
+   a   x   239
+a   x   238
+   a   x   237
+a   x   236
+   a   x   235
+a   x   234
+   a   x   233
+a   x   232
+   a   x   231
+a   x   230
+   a   x   229
+a   x   228
+   a   x   227
+a   x   226
+   a   x   225
+a   x   224
+   a   x   223
+a   x   222
+   a   x   221
+a   x   220
+   a   x   219
+a   x   218
+   a   x   217
+a   x   216
+   a   x   215
+a   x   214
+   a   x   213
+a   x   212
+   a   x   211
+a   x   210
+   a   x   209
+a   x   208
+   a   x   207
+a   x   206
+   a   x   205
+a   x   204
+   a   x   203
+a   x   202
+   a   x   201
+a   x   200
+   a   x   199
+a   x   198
+   a   x   197
+a   x   196
+   a   x   195
+a   x   194
+   a   x   193
+a   x   192
+   a   x   191
+a   x   190
+   a   x   189
+a   x   188
+   a   x   187
+a   x   186
+   a   x   185
+a   x   184
+   a   x   183
+a   x   182
+   a   x   181
+a   x   180
+   a   x   179
+a   x   178
+   a   x   177
+a   x   176
+   a   x   175
+a   x   174
+   a   x   173
+a   x   172
+   a   x   171
+a   x   170
+   a   x   169
+a   x   168
+   a   x   167
+a   x   166
+   a   x   165
+a   x   164
+   a   x   163
+a   x   162
+   a   x   161
+a   x   160
+   a   x   159
+a   x   158
+   a   x   157
+a   x   156
+   a   x   155
+a   x   154
+   a   x   153
+a   x   152
+   a   x   151
+a   x   150
+   a   x   149
+a   x   148
+   a   x   147
+a   x   146
+   a   x   145
+a   x   144
+   a   x   143
+a   x   142
+   a   x   141
+a   x   140
+   a   x   139
+a   x   138
+   a   x   137
+a   x   136
+   a   x   135
+a   x   134
+   a   x   133
+a   x   132
+   a   x   131
+a   x   130
+   a   x   129
+a   x   128
+   a   x   127
+a   x   126
+   a   x   125
+a   x   124
+   a   x   123
+a   x   122
+   a   x   121
+a   x   120
+   a   x   119
+a   x   118
+   a   x   117
+a   x   116
+   a   x   115
+a   x   114
+   a   x   113
+a   x   112
+   a   x   111
+a   x   110
+   a   x   109
+a   x   108
+   a   x   107
+a   x   106
+   a   x   105
+a   x   104
+   a   x   103
+a   x   102
+   a   x   101
+a   x   100
+   a   x    99
+a   x    98
+   a   x    97
+a   x    96
+   a   x    95
+a   x    94
+   a   x    93
+a   x    92
+   a   x    91
+a   x    90
+   a   x    89
+a   x    88
+   a   x    87
+a   x    86
+   a   x    85
+a   x    84
+   a   x    83
+a   x    82
+   a   x    81
+a   x    80
+   a   x    79
+a   x    78
+   a   x    77
+a   x    76
+   a   x    75
+a   x    74
+   a   x    73
+a   x    72
+   a   x    71
+a   x    70
+   a   x    69
+a   x    68
+   a   x    67
+a   x    66
+   a   x    65
+a   x    64
+   a   x    63
+a   x    62
+   a   x    61
+a   x    60
+   a   x    59
+a   x    58
+   a   x    57
+a   x    56
+   a   x    55
+a   x    54
+   a   x    53
+a   x    52
+   a   x    51
+a   x    50
+   a   x    49
+a   x    48
+   a   x    47
+a   x    46
+   a   x    45
+a   x    44
+   a   x    43
+a   x    42
+   a   x    41
+a   x    40
+   a   x    39
+a   x    38
+   a   x    37
+a   x    36
+   a   x    35
+a   x    34
+   a   x    33
+a   x    32
+   a   x    31
+a   x    30
+   a   x    29
+a   x    28
+   a   x    27
+a   x    26
+   a   x    25
+a   x    24
+   a   x    23
+a   x    22
+   a   x    21
+a   x    20
+   a   x    19
+a   x    18
+   a   x    17
+a   x    16
+   a   x    15
+a   x    14
+   a   x    13
+a   x    12
+   a   x    11
+a   x    10
+   a   x     9
+a   x     8
+   a   x     7
+a   x     6
+   a   x     5
+a   x     4
+   a   x     3
+a   x     2
+   a   x     1
+a   y   -100
+ a   y   -99
+a   y   -98
+ a   y   -97
+a   y   -96
+ a   y   -95
+a   y   -94
+ a   y   -93
+a   y   -92
+ a   y   -91
+a   y   -90
+ a   y   -89
+a   y   -88
+ a   y   -87
+a   y   -86
+ a   y   -85
+a   y   -84
+ a   y   -83
+a   y   -82
+ a   y   -81
+a   y   -80
+ a   y   -79
+a   y   -78
+ a   y   -77
+a   y   -76
+ a   y   -75
+a   y   -74
+ a   y   -73
+a   y   -72
+ a   y   -71
+a   y   -70
+ a   y   -69
+a   y   -68
+ a   y   -67
+a   y   -66
+ a   y   -65
+a   y   -64
+ a   y   -63
+a   y   -62
+ a   y   -61
+a   y   -60
+ a   y   -59
+a   y   -58
+ a   y   -57
+a   y   -56
+ a   y   -55
+a   y   -54
+ a   y   -53
+a   y   -52
+ a   y   -51
+a   y   -50
+ a   y   -49
+a   y   -48
+ a   y   -47
+a   y   -46
+ a   y   -45
+a   y   -44
+ a   y   -43
+a   y   -42
+ a   y   -41
+a   y   -40
+ a   y   -39
+a   y   -38
+ a   y   -37
+a   y   -36
+ a   y   -35
+a   y   -34
+ a   y   -33
+a   y   -32
+ a   y   -31
+a   y   -30
+ a   y   -29
+a   y   -28
+ a   y   -27
+a   y   -26
+ a   y   -25
+a   y   -24
+ a   y   -23
+a   y   -22
+ a   y   -21
+a   y   -20
+ a   y   -19
+a   y   -18
+ a   y   -17
+a   y   -16
+ a   y   -15
+a   y   -14
+ a   y   -13
+a   y   -12
+ a   y   -11
+a   y   -10
+ a   y    -9
+a   y    -8
+ a   y    -7
+a   y    -6
+ a   y    -5
+a   y    -4
+ a   y    -3
+a   y    -2
+ a   y    -1
+a   y     0
+ a   y     1
+a   y     2
+ a   y     3
+a   y     4
+ a   y     5
+a   y     6
+ a   y     7
+a   y     8
+ a   y     9
+a   y    10
+ a   y    11
+a   y    12
+ a   y    13
+a   y    14
+ a   y    15
+a   y    16
+ a   y    17
+a   y    18
+ a   y    19
+a   y    20
+ a   y    21
+a   y    22
+ a   y    23
+a   y    24
+ a   y    25
+a   y    26
+ a   y    27
+a   y    28
+ a   y    29
+a   y    30
+ a   y    31
+a   y    32
+ a   y    33
+a   y    34
+ a   y    35
+a   y    36
+ a   y    37
+a   y    38
+ a   y    39
+a   y    40
+ a   y    41
+a   y    42
+ a   y    43
+a   y    44
+ a   y    45
+a   y    46
+ a   y    47
+a   y    48
+ a   y    49
+a   y    50
+ a   y    51
+a   y    52
+ a   y    53
+a   y    54
+ a   y    55
+a   y    56
+ a   y    57
+a   y    58
+ a   y    59
+a   y    60
+ a   y    61
+a   y    62
+ a   y    63
+a   y    64
+ a   y    65
+a   y    66
+ a   y    67
+a   y    68
+ a   y    69
+a   y    70
+ a   y    71
+a   y    72
+ a   y    73
+a   y    74
+ a   y    75
+a   y    76
+ a   y    77
+a   y    78
+ a   y    79
+a   y    80
+ a   y    81
+a   y    82
+ a   y    83
+a   y    84
+ a   y    85
+a   y    86
+ a   y    87
+a   y    88
+ a   y    89
+a   y    90
+ a   y    91
+a   y    92
+ a   y    93
+a   y    94
+ a   y    95
+a   y    96
+ a   y    97
+a   y    98
+ a   y    99
+a   y   100
+r   x    2
+r   y   -6
+r   x    6
+r   y  -12
+r   x   10
+r   y  -18
+r   x   14
+r   y  -24
+r   x   18
+r   y  -30
+r   x   22
+r   y  -36
+r   x   26
+r   y  -42
+r   x   30
+r   y  -48
+r   x   34
+r   y  -54
+r   x   38
+r   y  -60
+r   x   42
+r   y  -66
+r   x   46
+r   y  -72
+r   x   50
+r   y  -78
+r   x   54
+r   y  -84
+r   x   58
+r   y  -90
+r   x   62
+r   y  -96
+r   x   66
+r   y -102
+r   x   70
+r   y -108
+r   x   74
+r   y -114
+r   x   78
+r   y -120
+r   x   82
+r   y -126
+r   x   86
+r   y -132
+r   x   90
+r   y -138
+r   x   94
+r   y -144
+r   x   98
+r   y -150
+r   x  102
+r   y -156
+r   x  106
+r   y -162
+r   x  110
+r   y -168
+r   x  114
+r   y -174
+r   x  118
+r   y -180
+r   x  122
+r   y -186
+r   x  126
+r   y -192
+r   x  130
+r   y -198
+r   x  134
+r   y -204
+r   x  138
+r   y -210
+r   x  142
+r   y -216
+r   x  146
+r   y -222
+r   x  150
+r   y -228
+r   x  154
+r   y -234
+r   x  158
+r   y -240
+r   x  162
+r   y -246
+r   x  166
+r   y -252
+r   x  170
+r   y -258
+r   x  174
+r   y -264
+r   x  178
+r   y -270
+r   x  182
+r   y -276
+r   x  186
+r   y -282
+r   x  190
+r   y -288
+r   x  194
+r   y -294
+r   x  198
+r   y -300
+r   x  202
+r   y -306
+r   x  206
+r   y -312
+r   x  210
+r   y -318
+r   x  214
+r   y -324
+r   x  218
+r   y -330
+r   x  222
+r   y -336
+r   x  226
+r   y -342
+r   x  230
+r   y -348
+r   x  234
+r   y -354
+r   x  238
+r   y -360
+r   x  242
+r   y -366
+r   x  246
+r   y -372
+r   x  250
+r   y -378
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+   u
+   i
+   p   x
+   p   y
+a   x   101
+a   y   -52
+r   y    3
+a   x   102
+a   y   -53
+r   y    4
+a   x   103
+a   y   -54
+r   y    5
+a   x   104
+a   y   -55
+r   y    6
+a   x   105
+a   y   -56
+r   y    7
+a   x   106
+a   y   -57
+r   y    8
+a   x   107
+a   y   -58
+r   y    9
+a   x   108
+a   y   -59
+r   y   10
+a   x   109
+a   y   -60
+r   y   11
+a   x   110
+a   y   -61
+r   y   12
+a   x   111
+a   y   -62
+r   y   13
+a   x   112
+a   y   -63
+r   y   14
+a   x   113
+a   y   -64
+r   y   15
+a   x   114
+a   y   -65
+r   y   16
+a   x   115
+a   y   -66
+r   y   17
+a   x   116
+a   y   -67
+pxpxpxpxpxpxpxpxpxpxpx
+pypy
+r   y   18
+a   x   117
+a   y   -68 pypypypy
+r   y   19
+a   x   118
+a   y   -69
+r   y   20
+a   x   119
+a   y   -70
+r   y   21
+a   x   120
+a   y   -71
+r   y   22
+a   x   121
+a   y   -72
+r   y   23
+a   x   122
+a   y   -73
+r   y   24
+a   x   123
+a   y   -74
+r   y   25px
+   q   
